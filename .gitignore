@@ -1,0 +1,9 @@
+*__pycache__/
+db.sqlite3
+pythonenv3.8/
+dist/
+gitt.egg-info/
+.env
+.vscode/
+start.sh
+.venv/
